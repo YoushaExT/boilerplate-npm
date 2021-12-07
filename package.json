@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Yousha Arshad",
-	"description": "A Project to learn Node.js"
+	"description": "A Project to learn Node.js",
+	"keywords": ["Learn", "Node", "API"]
 }
