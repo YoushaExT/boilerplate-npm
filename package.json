@@ -13,5 +13,6 @@
 	},
 	"author": "Yousha Arshad",
 	"description": "A Project to learn Node.js",
+	"license": "MIT",
 	"keywords": ["Learn", "Node", "API", "freecodecamp"]
 }
